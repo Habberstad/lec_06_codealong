@@ -13,7 +13,7 @@
     "build": "npm run build:server && npm run build:client",
     "build:client": "cd client && npm run build:client" ,
     "build:server": "cd server && npm run build:server",
-    "npm:start": "cd server && npm start"
+    "start": "cd server && npm start"
   },
   "keywords": [],
   "author": "",
